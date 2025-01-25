@@ -6,6 +6,3 @@ This is a simple e-commerce project built with Python. It includes basic functio
 - Add, view, and delete users
 - Add, view, and delete products
 - Store data in JSON files
-
-## Installation
-1. Clone this repository:

@@ -1,2 +1,11 @@
-# E-commerce-Project
-This is a simple e-commerce application built using Python and Django. The project is designed to manage user accounts, product listings, and orders. It simulates an online shopping platform where users can browse products, add them to their cart, and place orders.
+# E-commerce Project
+
+This is a simple e-commerce project built with Python. It includes basic functionality for managing users and products.
+
+## Features
+- Add, view, and delete users
+- Add, view, and delete products
+- Store data in JSON files
+
+## Installation
+1. Clone this repository:
